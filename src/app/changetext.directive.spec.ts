@@ -6,4 +6,3 @@ describe('ChangetextDirective', () => {
     expect(directive).toBeTruthy();
   });
 });
-git 
